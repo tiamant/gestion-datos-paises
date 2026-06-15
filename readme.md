@@ -68,7 +68,7 @@ El proyecto fue desarrollado utilizando exclusivamente bibliotecas de la \*\*lib
 
 \## 🔗 Enlaces Relevantes
 
-\* \*\*Documentación Técnica (PDF):\*\* \[Link al PDF subido en el repo o Drive]
+\* \*\*Documentación Técnica (PDF):\*\* \[[Link al PDF subido en el repo](https://github.com/tiamant/gestion-datos-paises/blob/main/Universidad%20Tecnol%C3%B3gica%20Nacional.pdf)]
 
-\* \*\*Video Demostración:\*\* \[Link a YouTube - Oculto/No Listado]
+\* \*\*Video Demostración:\*\* \[Link a YouTube - (https://youtu.be/OHl6K2mJC3w)]
 
