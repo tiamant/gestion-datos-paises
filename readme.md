@@ -44,7 +44,7 @@ Para correr el programa en un entorno local:
 
 1\. Clonar el repositorio en tu máquina local:
 
-&#x20;  `git clone \[URL\_DEL\_REPOSITORIO]`
+&#x20;  `git clone https://github.com/tiamant/gestion-datos-paises.git`
 
 2\. Asegurarse de tener instalado Python 3.x.
 
